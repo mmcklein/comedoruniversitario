@@ -8,8 +8,8 @@ PRECIO_RACION = 4.00
 
 # Horario de atención del almuerzo
 
-HORARIO_ALMUERZO = "12:00 - 14:30"
+HORARIO_ALMUERZO = "11:30 - 14:30"
 
 # Aforo máximo por turno
 
-AFORO_MAXIMO = 100
+AFORO_MAXIMO = 80
